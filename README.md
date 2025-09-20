@@ -1,2 +1,2 @@
 # amoldhotre_RISCyV-TapeOut_VSD
-#### gfdgfd
+## The RISC-V SoC Tapeout Program is a 20-week industry-grade course offered by VLSI System Design (VSD), focused on designing, verifying, and taping out a RISC-V-based System on Chip (SoC) using fully open-source tools. As part of India’s largest open-source silicon tapeout initiative, this program empowers participants to build their own custom RISC-V processor and take it all the way to physical design and GDSII generation.
