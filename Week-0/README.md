@@ -32,4 +32,5 @@ $ sudo apt-get install iverilog
 $ sudo apt install gtkwave
 ```
 
-<img width="986" height="239" alt="Screenshot 2025-09-20 194759" src="https://github.com/user-attachments/assets/c639969d-7f41-441b-9d94-0d1733de735f" />
+<img width="557" height="99" alt="Screenshot 2025-09-20 195349" src="https://github.com/user-attachments/assets/1d396f93-3a4a-4cd5-b29d-847932187329" />
+
